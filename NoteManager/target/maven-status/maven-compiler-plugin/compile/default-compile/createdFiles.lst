@@ -1,0 +1,6 @@
+ru\ruslan\notemanager\controller\NoteController.class
+ru\ruslan\notemanager\service\NoteServiceImpl.class
+ru\ruslan\notemanager\model\Note.class
+ru\ruslan\notemanager\dao\NoteDaoImpl.class
+ru\ruslan\notemanager\service\NoteService.class
+ru\ruslan\notemanager\dao\NoteDao.class
